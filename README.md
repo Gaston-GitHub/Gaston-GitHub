@@ -1,16 +1,43 @@
-### Hi there 👋
 
-<!--
-**Gaston-GitHub/Gaston-GitHub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# Hey! I'm Gaston
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rock+Salt&color=%23041639CD&size=25&center=true&vCenter=true&lines=Welcome+to+my+GitHub;I'm++a+Junior+full+stack+developer)](https://git.io/typing-svg)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+## About me
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rock+Salt&color=%23041639CD&size=15&center=true&vCenter=true&multiline=true&height=200&lines=I'm+recently+graduated;Breaking+through+in+my+web+dev+career;Always+learning+new+things+;Feel+free+to+reach+me%3A+;E-mail%3A+gastonsalimbene%40gmail.com)](https://git.io/typing-svg)
+
+## Tech stack
+![Mongodb](https://camo.githubusercontent.com/61c6ad1edcbf1f1d03ce421a9d70c450b833acd582286de109d4a9f463acd1f2/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d6f6e676f44422d3465613934622e7376673f6c6f676f3d6d6f6e676f6462266c6f676f436f6c6f723d7768697465)
+![Javascript](https://camo.githubusercontent.com/9a794a64d79bb070a8009cf27eb31c989d09d43a65f95362c88ed6c28218319b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176615363726970742d4637444631452e7376673f6c6f676f3d6a617661736372697074266c6f676f436f6c6f723d626c61636b)
+![Node](https://camo.githubusercontent.com/03d91be86cc33b72b22f8e84f2706a0a91ab0fca763566745ea6e3f72562811e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4e6f64652e6a732d3433383533442e7376673f6c6f676f3d6e6f64652e6a73266c6f676f436f6c6f723d7768697465)
+![Css](https://camo.githubusercontent.com/53132716f8ed401a79d8c0980b9666b6cd8ce8e7faed1beeb328f821b44850bc/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4353532d3135373242362e7376673f6c6f676f3d63737333266c6f676f436f6c6f723d7768697465)
+![React](https://camo.githubusercontent.com/841a3eb02c53b1da682028a5bf3d4032cee4a00b34cdd35f0b1b93e4e24d9316/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f52656163742d3230323332612e7376673f6c6f676f3d7265616374266c6f676f436f6c6f723d253233363144414642)
+![Express](https://camo.githubusercontent.com/389f5e80e9ded9673b2cdbbcc0787f1cdbff0ca40315bed18b18ca0d8cf02446/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f457870726573732e6a732d3430346435392e7376673f6c6f676f3d65787072657373266c6f676f436f6c6f723d7768697465)
+![Html](https://camo.githubusercontent.com/b4c648ad32f8f9f7c328a4dd59b5df0eb2a4e2623095e31d059f026979129491/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f48544d4c2d4533344632362e7376673f6c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465)
+
+## Software and tools
+![Visual Studio Code](https://camo.githubusercontent.com/f53628686f10ddabc221f47e91499adfaaed5663511900009deb71bd3c873236/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f56697375616c25323053747564696f253230436f64652d3030373864372e7376673f6c6f676f3d76697375616c2d73747564696f2d636f6465266c6f676f436f6c6f723d7768697465)
+![Postman](https://camo.githubusercontent.com/a0d4ee5c8ade6c8d92532978856e34de4be418cad95073fef0a00536e91802fa/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f506f73746d616e2d4646364333373f6c6f676f3d706f73746d616e266c6f676f436f6c6f723d7768697465)
+![Git](https://camo.githubusercontent.com/b957ad4a7456b1ed2ddea1f1e5d7789b1df3c8c5bbcf9427775b0ccad8e0c200/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769742d4630353033332e7376673f6c6f676f3d676974266c6f676f436f6c6f723d7768697465)
+![Heroku](https://camo.githubusercontent.com/fc85f51b2ea80feabeac5903668ca75834070b1e571df743cc5fd4e543859648/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4865726f6b752d3433303039382e7376673f6c6f676f3d6865726f6b75266c6f676f436f6c6f723d7768697465)
+![Stack Overflow](https://camo.githubusercontent.com/26e24924e6b305b420fe35cac175ab285d3d9faa7facd26e8a98c1f4256f768d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d537461636b2532304f766572666c6f772d4645374131363f6c6f676f3d737461636b2d6f766572666c6f77266c6f676f436f6c6f723d7768697465)
+![Codepen](https://camo.githubusercontent.com/59058cb3fb2e5aac023252dcc7a4787b1ecbfaeafb0851d235a710f67ede8cd2/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f436f646570656e2d3030303030302e7376673f6c6f676f3d636f646570656e266c6f676f436f6c6f723d7768697465)
+
+
+## Links 
+
+<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /> https://www.linkedin.com/in/gastonsalimbene/ 
+
+<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" /> https://github.com/Gaston-GitHub 
+
+
+
+
+ 
+
+
+
+
