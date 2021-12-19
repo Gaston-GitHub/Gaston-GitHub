@@ -1,7 +1,7 @@
 
 
 # Hey! I'm Gaston
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rock+Salt&color=%23041639CD&size=25&center=true&vCenter=true&lines=Welcome+to+my+GitHub;I'm++a+Junior+full+stack+developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rock+Salt&color=%230B2734&lines=Open+to+work+in+new+projects;Alway+learning+new+technologies;Feel+free+to+reach+me+out%3A+;Email%3A+gastonsalimbene%40gmail.com)](https://git.io/typing-svg)
 
 
 
