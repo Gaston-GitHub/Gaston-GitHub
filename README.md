@@ -1,14 +1,5 @@
 
 
-# Hey! I'm Gaston
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rock+Salt&color=%230B2734&lines=Full+stack+developer)](https://git.io/typing-svg)
-
-
-
-## About me
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rock+Salt&color=%230B2734&lines=Open+to+work+in+new+projects;Alway+learning+new+technologies;Feel+free+to+reach+me+out%3A+;Email%3A+gastonsalimbene%40gmail.com)](https://git.io/typing-svg)
-
 ## Tech stack
 ![Mongodb](https://camo.githubusercontent.com/61c6ad1edcbf1f1d03ce421a9d70c450b833acd582286de109d4a9f463acd1f2/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d6f6e676f44422d3465613934622e7376673f6c6f676f3d6d6f6e676f6462266c6f676f436f6c6f723d7768697465)
 ![Javascript](https://camo.githubusercontent.com/9a794a64d79bb070a8009cf27eb31c989d09d43a65f95362c88ed6c28218319b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176615363726970742d4637444631452e7376673f6c6f676f3d6a617661736372697074266c6f676f436f6c6f723d626c61636b)
